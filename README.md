@@ -8,8 +8,10 @@ Manuscript submitted for publication.
 
 This is a repository with supplementary material for this paper.  
 Contents:
-Kelp detection algorithm (JS code)
-Methodology workflow
+Kelp detection algorithm (JS code);
+
+Methodology workflow; 
+
 Low resolution kelp observations (table). 
 
 The global map can be seen here: 
