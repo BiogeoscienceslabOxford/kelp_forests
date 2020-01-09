@@ -6,8 +6,8 @@ Authors: Alejandra Mora-Soto * , Mauricio Palacios , Erasmo C. Macaya , Ivan Gó
 
 Manuscript submitted for publication.
 
-This is a repository with supplementary material for this paper.  
-Contents:
+This is a repository with supplementary material for this paper. The contents are: 
+
 Kelp detection algorithm (JS code);
 
 Methodology workflow; 
