@@ -16,6 +16,7 @@ Methodology workflow;
 
 Figure thresholds: Box and whisker plot of NDVI, FAI and KD per class derived from training data. Threshold values are indicated by a red line; values under those thresholds were masked out. GA= Green Algae; OW= Organic water; RG: River grass.; 
 
+Alternative validation using random forests and CART (pptx); 
 
 The global map can be seen here: 
 https://biogeoscienceslaboxford.users.earthengine.app/view/kelpforests
