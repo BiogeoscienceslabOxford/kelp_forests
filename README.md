@@ -1,12 +1,16 @@
 # kelp_forests
 
 A high-resolution global map of giant kelp (Macrocystis pyrifera) forests and intertidal green algae (Ulvophyceae) with Sentinel-2 images.
-(Manuscript submitted for publication.)
-Authors: Alejandra Mora-Soto , Mauricio Palacios , Erasmo C. Macaya , Ivan Gómez , Pirjo Huovinen , Alejandro Pérez-Matus , Mary Young , Neil Golding , Martin Toro , Mohammad Yaqub , Marc Macias-Fauria. 
 
 
+Mora-Soto, A.; Palacios, M.; Macaya, E.C.; Gómez, I.; Huovinen, P.; Pérez-Matus, A.; Young, M.; Golding, N.; Toro, M.; Yaqub, M.; Macias-Fauria, M. A High-Resolution Global Map of Giant Kelp (Macrocystis pyrifera) Forests and Intertidal Green Algae (Ulvophyceae) with Sentinel-2 Imagery. Remote Sens. 2020, 12, 694.
+
+The global map can be seen here: 
+https://biogeoscienceslaboxford.users.earthengine.app/view/kelpforests
 
 This is a repository with supplementary material for this paper. The contents are: 
+
+
 
 Kelp detection algorithm (JS code);
 
@@ -17,9 +21,6 @@ Methodology workflow;
 Figure thresholds: Box and whisker plot of NDVI, FAI and KD per class derived from training data. Threshold values are indicated by a red line; values under those thresholds were masked out. GA= Green Algae; OW= Organic water; RG: River grass.; 
 
 Alternative validation using random forests and CART (pptx); Validation compared to NDVI, FAI and KD (.xlsx); 
-
-The global map can be seen here: 
-https://biogeoscienceslaboxford.users.earthengine.app/view/kelpforests
 
 The high resolution validation with UAV images can be seen here: 
 https://biogeoscienceslaboxford.users.earthengine.app/view/kelp-forests-uav
