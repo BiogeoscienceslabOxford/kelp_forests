@@ -26,3 +26,4 @@ The high resolution validation with UAV images can be seen here:
 https://biogeoscienceslaboxford.users.earthengine.app/view/kelp-forests-uav
 
 Questions? drop me a line at alejandra.morasoto@ouce.ox.ac.uk
+updated: Feb 2021
