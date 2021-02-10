@@ -13,6 +13,7 @@ This is a repository with supplementary material for this paper. The contents ar
 
 
 Kelp detection algorithm (JS code); (Copy and paste in your GEE API; define a geometry and hit run)
+https://code.earthengine.google.com/6c1e97c1ab2a5f62a3899730959f6c72
 
 Low resolution kelp observations (table);
 
