@@ -14,6 +14,9 @@ This is a repository with supplementary material for this paper. The contents ar
 
 Kelp detection algorithm (JS code); (Copy and paste in your GEE API; define a geometry and hit run)
 https://code.earthengine.google.com/56274005f03809a9611eaec8f0fc95cf
+You can activate the NDVI and FAI indices deleting the (//) in lines 877 and  878. 
+The option to export your kelp canopy map to your own Google Drive repository is in lines 884-891. 
+You can also download them from your Google Drive activating lines 895-902. 
 
 Low resolution kelp observations (table);
 
@@ -26,5 +29,5 @@ Alternative validation using random forests and CART (pptx); Validation compared
 The high resolution validation with UAV images can be seen here: 
 https://biogeoscienceslaboxford.users.earthengine.app/view/kelp-forests-uav
 
-Questions? drop me a line at alejandra.morasoto@ouce.ox.ac.uk
-updated: Feb 2021
+Questions? drop me a line at alemoras@uvic.ca
+updated: May 2022
